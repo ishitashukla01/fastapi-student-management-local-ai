@@ -1,6 +1,6 @@
 # FastAPI Student Management System with Local AI
 
-This project is something I built during my AI/ML internship while learning backend development with Python.
+I built this project during my AI/ML internship while learning backend development with Python.
 
 At the beginning, I was mainly learning how APIs work, how FastAPI is structured, how a backend connects to a database, and how CRUD operations are implemented. Later, I also learned how a local LLM can be connected with a FastAPI backend using Ollama.
 
